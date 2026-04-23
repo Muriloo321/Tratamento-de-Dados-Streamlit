@@ -1,4 +1,6 @@
-# 📊 Manipulador de Dados
+<h1 align="center">
+Manipulador de Dados
+</h1>
 
 <p align="center">
   <img src="assets/capa.png" alt="Capa do projeto" width="800"/>
@@ -14,46 +16,59 @@ Upload • Limpeza • Análise • Exportação
 
 ---
 
-## 🚀 O que é
+<h1 align="center">
+O que é
+</h1>
 
-Uma aplicação interativa feita com **Python + Streamlit** para manipular datasets de forma rápida e intuitiva.
+Uma aplicação interativa feita com **Python + Streamlit + Pandas** para manipular datasets de forma rápida e intuitiva.
 
 Sem código. Sem complicação. Só resultado.
 
 ---
 
-## ⚡ Funcionalidades
+<h1 align="center">
+Funcionalidades
+</h1>
 
-* 📂 Upload de CSV e Excel
-* 👀 Visualização instantânea
-* 🧹 Limpeza de dados:
+*  Upload de CSV e Excel
+*  Visualização instantânea
+*  Limpeza de dados:
 
   * remover duplicados
   * tratar nulos (média/moda)
   * remover linhas por índice
-* 📊 Resumo automático do dataset
-* 💾 Exportação em CSV e Excel
-* 🔄 Reset para versão original
+*  Resumo automático do dataset
+*  Exportação em CSV e Excel
+*  Reset para versão original
 
 ---
 
-## 🔮 Próximos passos
+<h1 align="center">
+Próximos Passos (não nessa ordem)
+</h1>
 
-* 🤖 Insights automáticos com IA
-* 📈 Análises estatísticas
-* 🧾 Histórico de alterações (undo/redo)
-* 🌐 Deploy online compartilhável
+*  Insights automáticos com IA
+*  Análises estatísticas
+*  Histórico de alterações (undo/redo)
+*  Deploy online compartilhável
 
 ---
 
-## ▶️ Como rodar
+<h1 align="center">
+Como rodar
+</h1>
+
+Para o pessoal um pouco mais leigo, mas interessado, é só colocar este código abaixo:
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---
 
-## 👨‍💻 Autor
+<h1 align="center">
+Autor
+</h1>
 
 **Murilo Moreno**
 
